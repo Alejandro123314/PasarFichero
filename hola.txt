@@ -1,0 +1,23 @@
+Neptunia: Sisters VS Sisters Deluxe Pack PC Theme README.txt
+
+Thank you for purchasing the Neptunia: Sisters VS Sisters Deluxe Pack!
+
+The following items will be enabled with the PC theme:
+ - All nine Deluxe Pack wallpapers (will change every 10 minutes by default)
+ - Desktop icons
+ - New mouse cursor
+
+Also included:
+ - Four general use folders
+
+How to enable the theme:
+1. Navigate to the location Neptunia: Sisters VS Sisters is installed on your computer (such as C:\SteamLibrary\steamapps\common\Neptunia Sisters VS Sisters)
+2. Select the Deluxe Pack folder
+3. Select the PC Theme folder
+4. Double click on neptunia-sisters-theme.deskthemepack (WINDOWS 7 USERS: select neptunia-sisters-theme.themepack instead)
+5. The theme should automatically install and be enabled
+
+How to enable all of your desktop icons:
+1. Select the Start menu
+2. Type “Themes” and select “Themes and related settings”
+3. Under “Related settings” on the right side of the window, select “Desktop icon sett Check all of the
